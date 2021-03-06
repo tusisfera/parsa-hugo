@@ -2,6 +2,7 @@
 categories = ["Valuable Idea"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
+draft = true
 image = "images/featured-post/post-1.jpg"
 tags = ["Photos", "Finance"]
 title = "Organize Your Life With 10 Simple rule-(copy)"
